@@ -1,6 +1,6 @@
 {
   "name": "atsol-masonry-react",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A lightweight React responsive masonry component.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
