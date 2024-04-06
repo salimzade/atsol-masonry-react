@@ -1,6 +1,6 @@
 {
   "name": "atsol-masonry-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A lightweight React responsive masonry component.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -39,7 +39,7 @@
     "typescript": "^5.4.3"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || 18.x",
-    "react-dom": "^16.8.0 || 18.x"
+    "react": "^16.8.0 || ^18.2.0",
+    "react-dom": "^16.8.0 || ^18.2.0"
   }
 }
